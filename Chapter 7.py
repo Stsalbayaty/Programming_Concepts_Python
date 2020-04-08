@@ -1,9 +1,7 @@
 
 # hold shift tab (control / to comment out)
+# to do list wasnt passed
 def GetMenuChoice(userList):
-    # userList = todoList 
-    
-#todolist wasnt passed
     print("1) Add Item to list")
     print("2) Remove Item from list")
     print("3) Display List")
