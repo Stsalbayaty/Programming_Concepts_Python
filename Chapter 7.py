@@ -1,6 +1,8 @@
 
-# hold shift tab (control / to comment out)
-# to do list wasnt passed
+# To indent a line type: Tab
+# To unindent a line type: Shift + Tab
+# We did not need a new variable because userList is the todoList we passed
+# in main()
 def GetMenuChoice(userList):
     print("1) Add Item to list")
     print("2) Remove Item from list")
@@ -50,6 +52,3 @@ def main():
 
 
 main()
-    
-
-
